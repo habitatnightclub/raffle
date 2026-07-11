@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Raffle",
+    "InternalName": "Raffle",
+    "Author": "Your Venue",
+    "Punchline": "Run a 50/50 raffle from the venue floor.",
+    "Description": "Host tool for a 50/50 raffle: target patrons to register them, sell raffle tickets (100,000 gil each, configurable), auto-assign sequential ticket numbers with a live tracking table, grow a boosted pot by 50% of every ticket sold, per-night ticket caps (40 regular / 50 Lifetime VIP), open/close the round, draw a winner from a /random roll, per-night local archives, and a guided (not automated) payout planner. Optional Supabase shared mode for multiple hosts.",
+    "Tags": [ "venue", "minigame", "raffle", "utility" ],
+    "CategoryTags": [ "utility" ],
+    "AcceptsFeedback": false,
+    "IsHide": false,
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "AssemblyVersion": "0.1.0.0",
+    "LastUpdate": 0,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/YOUR_ORG/Raffle/main/Raffle.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/YOUR_ORG/Raffle/main/Raffle.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YOUR_ORG/Raffle/main/Raffle.zip",
+    "IconUrl": "https://raw.githubusercontent.com/YOUR_ORG/Raffle/main/icon.png"
+  }
+]
