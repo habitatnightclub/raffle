@@ -3,7 +3,7 @@
     "Author": "Habitat",
     "Name": "Raffle",
     "InternalName": "Raffle",
-    "AssemblyVersion": "0.2.0.0",
+    "AssemblyVersion": "0.2.1.0",
     "TestingAssemblyVersion": null,
     "Description": "Host tool for a 50/50 raffle: target patrons to register them, sell raffle tickets (100,000 gil each, configurable), auto-assign sequential ticket numbers with a live tracking table, grow a boosted pot by 50% of every ticket sold, per-night ticket caps (40 regular / 50 Lifetime VIP), open/close the round, draw a winner from a /random roll, per-night local archives, and a guided (not automated) payout planner. Optional Supabase shared mode for multiple hosts.",
     "Punchline": "Run a 50/50 raffle from the venue floor.",
